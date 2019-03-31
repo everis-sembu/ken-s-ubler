@@ -36,4 +36,6 @@ In this version we have focused only in the generation of the **_Pre-award_** ar
 1. Pull the repository,
 2. Open a terminal,
 3. Go to the folder `artefacts`,
-4. Run the command `./go.sh`.
+4. Run the command `./go.sh`. 
+
+This will create a folder named `Pre-award-2.3` with all the UBL-2.3 distribution artefacts inside.
