@@ -4,7 +4,7 @@
 
 This repository contains the Cranesoftwrights tools plus a set of configuration files and the `ant` build file for the generation of the artefacts in a sequenced pipeline. The resources available from this repository were provided by the author of the tools, **[Ken Holman](http://www.cranesoftwrights.com/)**. 
 
-At SEMBU, we call this distribution of Ken's tools the "Ken's UBLer asset", or just the "Ken's UBLer".
+At SEMBU, we refer to this distribution as the "Ken's UBLer".
 
 ## Ken's UBLer v-0.1 (Pre-award)
 
