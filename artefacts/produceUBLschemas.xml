@@ -158,7 +158,8 @@ file="${utilitydir}Crane-cva2sch-${cva2sch}/utility/iso_schematron_assembly.xsl"
     </antcall>
     <antcall target="-cva2xsl">
       <param name="okay"    value="xsd-okay"/>
-      <param name="cvain"   value="${stage}-${UBLversion}/cva/UBL-DefaultDTQ-${UBLversion}.cva"/>
+      <!-- 20190331: modified by @paulakeen (everis) -> ${stage} added -->
+      <param name="cvain"   value="${stage}-${UBLversion}/cva/UBL-DefaultDTQ-${UBLversion}-${stage}.cva"/>
       <param name="cvaout"  value="${stage}-${UBLversion}/cva/UBL-DefaultDTQ-${UBLversion}.html"/>
       <param name="cvabase" value="${stage}-${UBLversion}/cva/UBL-DefaultDTQ-${UBLversion}"/>
       <param name="schin"   value="UBL-DefaultDTQ-${UBLversion}-shell.sch"/>
