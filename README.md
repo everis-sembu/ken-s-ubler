@@ -10,7 +10,7 @@ At SEMBU, we refer to this distribution as the "Ken's UBLer".
 
 In this repository, the original Ken's distribution has been slightly modified to produce a kind of "container" with (practically) all the needed dependencies. Thus, by pulling this repository, one should be able to execute the generation of all the artefacts whithout having to install anything else except a Java JDK VM, [aspell](http://aspell.net/) and [soffice](http://www.openoffice.org/download/index.html).
 
-In this version we have focused only in the generation of the _Pre-award_ artefacts. 
+In this version we have focused only in the generation of the **_Pre-award_** artefacts. 
 
 ### Requirements for this version: 
 
