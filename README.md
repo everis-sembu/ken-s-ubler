@@ -2,9 +2,11 @@
 
 **_Cranesoftwrights tooling for the generation of [OASIS UBL-2.x](http://docs.oasis-open.org/ubl/cs01-UBL-2.2/UBL-2.2.html) artefact distribution packages._**
 
-This repository contains the Cranesoftwrights tools plus a set of configuration files and the ant build file for the generation of the artefacts in a sequenced pipeline. The resources available from this repository were provided by the author of the tools, **[Ken Holman](http://www.cranesoftwrights.com/)**. 
+This repository contains the Cranesoftwrights tools plus a set of configuration files and the `ant` build file for the generation of the artefacts in a sequenced pipeline. The resources available from this repository were provided by the author of the tools, **[Ken Holman](http://www.cranesoftwrights.com/)**. 
 
-## SEMBU-UBLer v-0.1 (Pre-award)
+At SEMBU, we call this distribution of Ken's tools the "Ken's UBLer asset", or just the "Ken's UBLer".
+
+## Ken's UBLer v-0.1 (Pre-award)
 
 In this repository, the original Ken's distribution has been slightly modified to produce a kind of "container" with (practically) all the needed dependencies. Thus, by pulling this repository, one should be able to execute the generation of all the artefacts whithout having to install anything else except a Java JDK VM, [aspell](http://aspell.net/) and [soffice](http://www.openoffice.org/download/index.html).
 
